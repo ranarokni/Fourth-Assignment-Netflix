@@ -1,6 +1,6 @@
 #IN GOD WE TRUST
 
-![logo](logo.png)
+![logo](Logo.png)
 
 #FORTH ASSIGNMENT
 
@@ -21,10 +21,10 @@ To have secure passwords, they would be hashed with MD5 hashing algorithm and by
 User's input information would be checked to be valid, for example user can not add a movie to his/ her watching list/ favorite list which does not exist and also valid inputs to choose from menus is being checked.
 
 There are 4 classes in this program: User, Movie, TVShow which extends Movie class(TVShows have more attributes like number of seasons and etc.) and NetflixService which is an object to manage database. Main class includes different menus. The UML bellow shows the instructor comprehensively.
-[uml](class.png)
+![uml](class.png)
 
 Recording Users' watch history and favorite movie was a challenge. the first thing I did was to create separate database watch history and favorite movie tables for each user, which wasn't efficient at all. To solve this problem I decided to restore watch list as a string and an attribute of user and have a separate table of all users' favorite movies linked to their unique username. Other tables are shown in database UML: 
-[uml](database.png)
+![uml](database.png)
 
 3. Testing and Evaluation
 
