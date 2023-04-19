@@ -1,10 +1,10 @@
-#IN GOD WE TRUST
+# IN GOD WE TRUST
 
 ![logo](Logo.png)
 
-#FORTH ASSIGNMENT
+# FORTH ASSIGNMENT
 
-##Rana Rokni 401222066
+## Rana Rokni 401222066
 
 1.Introduction
 
